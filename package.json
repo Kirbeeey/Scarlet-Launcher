@@ -1,7 +1,7 @@
 {
     "name": "Scarlet-Launcher",
     "preductname": "Scarlet Launcher",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Launcher Mincraft pour le serveur Scarlet Brotherhood",
     "main": "src/app.js",
     "author": {
